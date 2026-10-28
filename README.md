@@ -331,7 +331,7 @@ Make sure you have the following installed:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<shivammishhra5>/capacityconnect.git
+git clone https://github.com/<shreyapandey421851-tech>/capacityconnect.git
 cd capacityconnect
 
 # 2. Install PHP dependencies
@@ -575,9 +575,11 @@ This project is open-sourced software licensed under the **[MIT license](LICENSE
 <div class="contact-card">
   <h2>Shivam Mishra</h2>
   <ul class="contact-list">
-    <li>✉️ <a href="mailto:shivammishracu@gmail.com">shivammishracu@gmail.com</a></li>
-    <li>💼 <a href="https://linkedin.com/in/shivammishhra5" target="_blank">linkedin.com/in/shivammishhra5</a></li>
-    <li>💻 <a href="https://github.com/shivammishhra5" target="_blank">github.com/shivammishhra5</a></li>
+   
+<li>✉️ <a href="mailto:shreyapandey421851@gmail.com">shreyapandey421851@gmail.com</a></li>
+<li>💼 <a href="https://www.linkedin.com/in/shreya-pandey-594875284" target="_blank">linkedin.com/in/shreya-pandey-594875284</a></li>
+<li>💻 <a href="https://github.com/shreyapandey421851-tech" target="_blank">github.com/shreyapandey421851-tech</a></li>
+
   </ul>
 </div>
 
