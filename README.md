@@ -573,7 +573,7 @@ This project is open-sourced software licensed under the **[MIT license](LICENSE
 - UI toasts by [laravel-toaster-magic](https://github.com/devrabiul/laravel-toaster-magic)
 
 <div class="contact-card">
-  <h2>Shivam Mishra</h2>
+  <h2>Shreya Pandey </h2>
   <ul class="contact-list">
    
 <li>✉️ <a href="mailto:shreyapandey421851@gmail.com">shreyapandey421851@gmail.com</a></li>
